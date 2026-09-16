@@ -1,0 +1,13 @@
+{
+  "base_ingenuo_estacional": 0.2857644991212654,
+  "holt_winters": 0.19512988438997664,
+  "mejor_sin_calendario": 0.23169542417751537,
+  "mejor_con_calendario": 0.14899088778120118,
+  "histgb_default": 0.23351649930792306,
+  "histgb_leaf5": 0.14899088778120118,
+  "subestimacion_kfold": {
+    "Ridge": 0.4448288846024673,
+    "RandomForest": 0.35451494944829476,
+    "HistGB": 0.3962315262536461
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "p_barra": 0.04054929394999352,
+  "total_defectuosas": 313,
+  "total_inspeccionadas": 7719,
+  "n_min": 252,
+  "n_max": 397,
+  "n_medio": 321.625,
+  "LCS_constante": 0.0735443854310975,
+  "lotes_fuera": [
+    15
+  ],
+  "causa_lote_fuera": [
+    "Sello defectuoso"
+  ],
+  "pareto": {
+    "Sello defectuoso": 157,
+    "Peso fuera de rango": 96,
+    "Rotulado": 56,
+    "Abolladura": 4
+  },
+  "plan": {
+    "N": 2000,
+    "n": 80,
+    "c": 2
+  },
+  "Pa_1pct": 0.9534468142640684,
+  "Pa_2pct": 0.784418886975356,
+  "Pa_3pct": 0.5681232516410872,
+  "Pa_5pct": 0.23062050491649155,
+  "AQL": 0.01,
+  "alpha": 0.04655318573593159,
+  "LTPD": 0.06520000000000004,
+  "beta": 0.1,
+  "razon_discriminacion": 6.520000000000003,
+  "AOQL": 0.016426752221051538,
+  "p_AOQL": 0.028100000000000014
+}

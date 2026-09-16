@@ -1,0 +1,9 @@
+{
+  "mejor_suave": "Holt-Winters mult.",
+  "wape_mejor_suave": 0.20104810218335797,
+  "base_suave": 0.2620287000562746,
+  "mejor_grumosa": "Croston(a=0.1)",
+  "wape_mejor_grumosa": 0.819047619047619,
+  "tasa_croston": 116.14878068940641,
+  "tasa_sba": 110.34134165493609
+}

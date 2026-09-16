@@ -1,0 +1,16 @@
+{
+  "errores_unidad": 1,
+  "falsos_positivos_sin_guarda": 22,
+  "quiebre_t": 121,
+  "quiebre_salto": 0.3297844966143739,
+  "filas_censuradas": 107,
+  "sesgo_despachos": 0.02668903461949057,
+  "clases": {
+    "DUR-480": "suave",
+    "DUR-820": "suave",
+    "POR-3000": "grumosa",
+    "POR-480": "suave",
+    "TOM-3000": "suave",
+    "TOM-480": "suave"
+  }
+}
