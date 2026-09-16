@@ -1,0 +1,13 @@
+t,secuencia,horas_cambio
+1,TOM -> POR -> DUR,3.8000000000000003
+2,DUR -> DUR -> TOM,0.8
+3,TOM -> POR -> POR,1.6
+4,POR -> TOM -> DUR,4.0
+5,DUR -> DUR -> TOM,0.8
+6,TOM -> TOM -> POR,1.6
+7,POR -> DUR -> TOM,3.0
+8,TOM -> TOM -> TOM,0.0
+9,POR -> DUR -> DUR,3.8000000000000003
+10,DUR -> DUR -> TOM,0.8
+11,TOM -> TOM -> TOM,0.0
+12,TOM -> TOM -> TOM,0.0

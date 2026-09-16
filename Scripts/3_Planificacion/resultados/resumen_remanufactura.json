@@ -1,0 +1,29 @@
+{
+  "costo_por_core_procesado": 3250.0,
+  "costo_por_envase_entregado": 4189.927281878401,
+  "rho_medio": 0.775669786455812,
+  "rho_critico": 0.6153846153846154,
+  "techo_circularidad_pct": 50.071100694444446,
+  "presupuesto_kgco2e": 102161.0,
+  "costos": {
+    "ninguna": 108887417.28720464,
+    "global": 111008861.577333,
+    "rodante": 113622518.53370878,
+    "acumulado": 115220634.53955099,
+    "periodo": 115752024.27577567
+  },
+  "circularidad_pct": {
+    "ninguna": 8.290301265265168,
+    "global": 32.45074765668976,
+    "rodante": 36.972653737241615,
+    "acumulado": 26.549899143420536,
+    "periodo": 26.549899143420536
+  },
+  "co2e": {
+    "ninguna": 127701.60632657935,
+    "global": 102061.03088044561,
+    "rodante": 97142.13803292172,
+    "acumulado": 101717.46551724136,
+    "periodo": 101717.46551724136
+  }
+}

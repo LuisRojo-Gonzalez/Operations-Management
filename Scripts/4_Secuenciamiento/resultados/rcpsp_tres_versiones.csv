@@ -1,0 +1,4 @@
+versión,relaciones,CPM,cota,óptimo,estado,gap_%,horizonte,vars,binarias,restr,nodos,seg
+solo FS con desfase 0,24,63.0,63.0,78.0,OPTIMAL,0.0,93,694,693,248,142,1.2515557099998205
+"+ SS, FF y SF",27,65.0,65.0,80.0,OPTIMAL,0.0,95,674,673,255,17,0.7473892610000803
++ desfase −3 en A11→A13,27,62.0,62.0,77.0,OPTIMAL,0.0,92,653,652,249,1,0.726906611000004

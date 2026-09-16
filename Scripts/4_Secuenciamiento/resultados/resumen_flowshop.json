@@ -1,0 +1,20 @@
+{
+  "cota_inferior": 33.5,
+  "johnson": 35.0,
+  "cds": 35.0,
+  "enumeracion": 33.5,
+  "F3_prmu": 33.5,
+  "F3_general": 33.499999996549995,
+  "binarias_prmu": 28,
+  "binarias_general": 84,
+  "orden_optimo": [
+    "F4",
+    "F6",
+    "F2",
+    "F1",
+    "F3",
+    "F7",
+    "F8",
+    "F5"
+  ]
+}

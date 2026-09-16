@@ -1,0 +1,14 @@
+{
+  "nodos": 7,
+  "etapas": 3,
+  "trayectorias": 4,
+  "multietapa_clp": 107973125.0517468,
+  "rigido_clp": 114313711.68377027,
+  "valor_adaptacion_clp": 6340586.632023469,
+  "valor_adaptacion_pct": 5.546654498949032,
+  "promedio_clp": 107893757.16270915,
+  "valor_contra_promedio_clp": -79367.8890376538,
+  "dos_raices_clp": 107953334.37001607,
+  "variables": 308,
+  "restricciones": 224
+}

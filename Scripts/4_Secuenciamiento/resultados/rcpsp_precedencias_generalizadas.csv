@@ -1,0 +1,5 @@
+antecesora,sucesora,tipo,desfase_h,d_a,d_b,delta
+A11,A13,FS,-3.0,14,5,11.0
+A15,A16,SS,2.0,6,6,2.0
+A16,A15,FF,-4.0,6,6,-4.0
+A15,A12,SF,0.0,6,6,-6.0

@@ -1,0 +1,49 @@
+{
+  "cpm": {
+    "clasica": 63.0,
+    "generalizada": 65.0,
+    "solapada": 62.0
+  },
+  "optimo": {
+    "clasica": 78.0,
+    "generalizada": 80.0,
+    "solapada": 77.0
+  },
+  "cota_recurso": {
+    "mecanicos": 57.5,
+    "grua": 44.0
+  },
+  "cota_inferior": {
+    "clasica": 63.0,
+    "generalizada": 65.0,
+    "solapada": 62.0
+  },
+  "efecto_escribir_restricciones_reales": 2.0,
+  "efecto_permitir_solapamiento": -3.0,
+  "cmax_modelo_con_recurso_ingenuo": 63.0,
+  "pico_mecanicos_modelo_ingenuo": 12,
+  "ciclos": [
+    {
+      "largo": 0.0,
+      "arcos": [
+        "A12-FS+0->A15",
+        "A15-SF+0->A12"
+      ]
+    },
+    {
+      "largo": -4.0,
+      "arcos": [
+        "A12-FS+0->A16",
+        "A16-FF-4->A15",
+        "A15-SF+0->A12"
+      ]
+    },
+    {
+      "largo": -2.0,
+      "arcos": [
+        "A15-SS+2->A16",
+        "A16-FF-4->A15"
+      ]
+    }
+  ]
+}

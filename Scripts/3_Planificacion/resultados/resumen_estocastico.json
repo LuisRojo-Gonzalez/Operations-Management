@@ -1,0 +1,15 @@
+{
+  "n_escenarios": 6,
+  "RP": 17226363.86088313,
+  "EEV": 17454434.95190989,
+  "WS": 16388811.086562566,
+  "VSS": 228071.0910267569,
+  "EVPI": 837552.7743205652,
+  "VSS_pct": 1.3066655646838974,
+  "EVPI_pct": 4.862040422949867,
+  "setups_RP": 33,
+  "setups_EV": 30,
+  "variables": 1656,
+  "restricciones": 1512,
+  "licencia_limitada": true
+}

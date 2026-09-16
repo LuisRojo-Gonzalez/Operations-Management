@@ -1,0 +1,10 @@
+{
+  "mlclsp_correcto_clp": 21382808.480418056,
+  "mlclsp_desfase_clp": 37479416.83037273,
+  "razon_desfase": 1.7527827022673668,
+  "doble_imputacion_estado": "INFEASIBLE",
+  "setups_producto": 30,
+  "setups_granel": 19,
+  "utilizacion_PREP_correcta_pct": 72.22125269829077,
+  "utilizacion_PREP_doble_pct": 142.86941962742463
+}

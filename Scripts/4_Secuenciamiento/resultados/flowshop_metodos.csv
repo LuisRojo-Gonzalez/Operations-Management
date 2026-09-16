@@ -1,0 +1,8 @@
+método,Cmax,exceso_%
+cota inferior,33.5,0.0
+orden del archivo,37.5,11.9403
+Johnson extendido,35.0,4.4776
+CDS (mejor de 2),35.0,4.4776
+enumeración de las 8! permutaciones,33.5,0.0
+MIP F3|prmu|Cmax,33.5,0.0
+MIP F3||Cmax general,33.5,0.0

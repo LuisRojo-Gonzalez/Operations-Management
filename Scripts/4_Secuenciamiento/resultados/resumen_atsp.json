@@ -1,0 +1,23 @@
+{
+  "optimo_Cmax_h": 51.6,
+  "horas_proceso": 44.5,
+  "horas_cambio": 7.1,
+  "gap_bigM_pct": 66.75110126811316,
+  "segundos_bigM": 60.0115456850001,
+  "gap_mtz_pct": 0.0,
+  "segundos_mtz": 0.046387916999947265,
+  "cota_lp_bigM": 8.0,
+  "cota_lp_mtz": 49.3,
+  "secuencia_optima": [
+    "J01-TOM-480",
+    "J07-TOM-480",
+    "J04-TOM-3000",
+    "J10-TOM-3000",
+    "J06-POR-3000",
+    "J03-POR-480",
+    "J09-POR-480",
+    "J02-DUR-480",
+    "J08-DUR-480",
+    "J05-DUR-820"
+  ]
+}

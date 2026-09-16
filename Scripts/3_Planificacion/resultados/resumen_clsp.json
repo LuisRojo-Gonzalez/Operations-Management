@@ -1,0 +1,10 @@
+{
+  "objetivo_clsp": 16457113.865168726,
+  "n_setups": 34,
+  "gap_raiz_generico_pct": 99.16941291939743,
+  "gap_raiz_ajustado_pct": 54.246951470277345,
+  "gap_raiz_a_medida_pct": 44.98697814483378,
+  "costo_variable_excluido": 951834100.0,
+  "cuello_de_botella": "AUT",
+  "n_violaciones_WW": 7
+}

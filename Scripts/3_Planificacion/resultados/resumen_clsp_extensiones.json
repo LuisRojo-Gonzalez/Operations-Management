@@ -1,0 +1,12 @@
+{
+  "basico": 16457113.865168726,
+  "horas_extra": 16247378.040274434,
+  "backlog": 15772683.144179128,
+  "ss_lead_invfinal": 20100279.457186118,
+  "optimo_cota_valida": 16148004.554504883,
+  "optimo_cota_invalida": 16152893.77641741,
+  "sobrecosto_silencioso": 4889.221912527457,
+  "setups_sin_startup": 30,
+  "setups_con_startup": 43,
+  "arranques_con_startup": 7
+}

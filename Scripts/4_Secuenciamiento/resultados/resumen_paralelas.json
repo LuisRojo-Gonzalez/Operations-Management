@@ -1,0 +1,16 @@
+{
+  "Pm_cota_inferior": 31.349999999999998,
+  "Pm_LPT": 31.4,
+  "Pm_optimo": 31.4,
+  "Rm_cota_inferior": 20.9,
+  "Rm_LPT": 22.799999999999997,
+  "Rm_optimo": 22.4,
+  "Rm_cota_LP": 22.33701684836472,
+  "binarias_asignacion": 28,
+  "binarias_posiciones": 392,
+  "carga_Rm": {
+    "A1": 22.299999999999997,
+    "A2": 22.4,
+    "A3": 22.31
+  }
+}

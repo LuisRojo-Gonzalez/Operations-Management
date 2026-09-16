@@ -1,0 +1,26 @@
+{
+  "presupuesto_kgco2e": 400513.0,
+  "costos": {
+    "ninguna": 15772683.144179128,
+    "global": 16941826.844142333,
+    "rodante": 25484045.85326676,
+    "acumulado": 30224697.13688106,
+    "periodo": 30896718.074772887
+  },
+  "peak_semanal": {
+    "ninguna": 44894.29364333687,
+    "global": 42647.727836329825,
+    "rodante": 45039.06098186097,
+    "acumulado": 36033.99999999998,
+    "periodo": 33376.0
+  },
+  "co2e_total": {
+    "ninguna": 411489.45,
+    "global": 400498.6248594531,
+    "rodante": 400509.45765973016,
+    "acumulado": 400389.4500000002,
+    "periodo": 400512.0
+  },
+  "razon_periodo_global": 1.8236945967521492,
+  "periodo_con_10pct_holgura": 20223066.75688378
+}

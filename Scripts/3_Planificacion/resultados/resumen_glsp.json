@@ -1,0 +1,11 @@
+{
+  "glsp_sin_contiguidad": 18617123.28204086,
+  "glsp_con_contiguidad": 18617123.28204086,
+  "diferencia": 0.0,
+  "horas_de_cambio": 20.200000000000003,
+  "estado_sin": "OPTIMAL",
+  "estado_con": "OPTIMAL",
+  "gap_sin_pct": 3.0015031662186565e-13,
+  "gap_con_pct": 2.267135391550492e-11,
+  "semanas_con_revisita": 0
+}

@@ -1,0 +1,14 @@
+{
+  "cota_carga_maquina": 17.0,
+  "maquina_critica": "M2",
+  "cota_ruta_larga": 11.5,
+  "trabajo_critico": "T6",
+  "cota_inferior": 17.0,
+  "no_demora": 21.5,
+  "optimo_J4_Cmax": 17.0,
+  "bigM_trivial": 59.5,
+  "bigM_ajustado": 21.5,
+  "binarias": 60,
+  "restricciones": 144,
+  "sumC": 96.5
+}
