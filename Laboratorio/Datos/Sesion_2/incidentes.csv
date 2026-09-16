@@ -1,0 +1,5 @@
+tipo,frecuencia,costo_unitario_um
+demora,40,5
+registro_incompleto,25,12
+falta_insumo,20,20
+reproceso,15,30

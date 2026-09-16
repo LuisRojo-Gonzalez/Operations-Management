@@ -1,0 +1,4 @@
+escenario,demanda_unidades,probabilidad
+bajo,80,0.25
+central,100,0.5
+alto,140,0.25

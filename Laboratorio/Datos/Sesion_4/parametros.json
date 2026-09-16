@@ -1,0 +1,8 @@
+{
+  "laboratorio": 4,
+  "origen_datos": "sinteticos_docentes",
+  "profesor_laboratorio": "Manuel López",
+  "q_min": 0,
+  "q_max": 160,
+  "q_paso": 1
+}

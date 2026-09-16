@@ -1,0 +1,4 @@
+escenario,habilitar_emergencia,cerrar_p1_c1
+base,0,0
+cierre,0,1
+cierre_con_emergencia,1,1

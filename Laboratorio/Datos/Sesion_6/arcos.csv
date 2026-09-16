@@ -1,0 +1,7 @@
+proveedor,centro,costo_unitario
+P1,C1,2
+P1,C2,5
+P2,C1,4
+P2,C2,1
+E,C1,10
+E,C2,10

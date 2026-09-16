@@ -1,0 +1,6 @@
+nodo,tipo,limite_llegada_min,servicio_min
+0,deposito,,0
+1,cliente,6,0
+2,cliente,20,0
+3,cliente,12,0
+4,cliente,16,0

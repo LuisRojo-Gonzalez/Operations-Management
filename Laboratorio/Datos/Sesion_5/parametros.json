@@ -1,0 +1,8 @@
+{
+  "laboratorio": 5,
+  "origen_datos": "sinteticos_docentes",
+  "profesor_laboratorio": "Manuel López",
+  "inventario_inicial": 0,
+  "inventario_final": 0,
+  "tolerancia": 1e-06
+}
