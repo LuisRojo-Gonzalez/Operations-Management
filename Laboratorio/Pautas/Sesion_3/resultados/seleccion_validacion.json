@@ -1,0 +1,5 @@
+{
+  "alpha_ses": 0.2,
+  "metodo": "ingenuo_estacional",
+  "ultimo_periodo_seleccion": 24
+}

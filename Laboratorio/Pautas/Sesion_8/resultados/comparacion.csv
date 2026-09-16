@@ -1,0 +1,4 @@
+secuencia,tiempo,tardanza,cumplimiento,politica
+"(1, 4, 2, 3)",28,6.0,0.75,Vecino
+"(1, 3, 2, 4)",26,3.0,0.75,Min_tiempo
+"(1, 3, 4, 2)",26,0.0,1.0,Con_plazos

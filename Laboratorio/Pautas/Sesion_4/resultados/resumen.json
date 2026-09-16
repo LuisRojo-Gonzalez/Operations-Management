@@ -1,0 +1,45 @@
+{
+  "media": 105,
+  "escenarios_costos": [
+    {
+      "caso": "faltante_2",
+      "cu": 2,
+      "q_min_optimo": 100,
+      "q_max_optimo": 100,
+      "n_optimos": 1,
+      "costo_optimo": 30.0,
+      "q_media": 105,
+      "costo_media": 35.0
+    },
+    {
+      "caso": "faltante_6",
+      "cu": 6,
+      "q_min_optimo": 100,
+      "q_max_optimo": 140,
+      "n_optimos": 41,
+      "costo_optimo": 70.0,
+      "q_media": 105,
+      "costo_media": 70.0
+    },
+    {
+      "caso": "base",
+      "cu": 8,
+      "q_min_optimo": 140,
+      "q_max_optimo": 140,
+      "n_optimos": 1,
+      "costo_optimo": 70.0,
+      "q_media": 105,
+      "costo_media": 87.5
+    },
+    {
+      "caso": "faltante_12",
+      "cu": 12,
+      "q_min_optimo": 140,
+      "q_max_optimo": 140,
+      "n_optimos": 1,
+      "costo_optimo": 70.0,
+      "q_media": 105,
+      "costo_media": 122.5
+    }
+  ]
+}

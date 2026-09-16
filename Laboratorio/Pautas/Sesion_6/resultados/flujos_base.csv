@@ -1,0 +1,7 @@
+proveedor,centro,costo_unitario,kits,costo_total
+P1,C1,2,60.0,120.0
+P1,C2,5,10.0,50.0
+P2,C1,4,0.0,0.0
+P2,C2,1,50.0,50.0
+E,C1,10,0.0,0.0
+E,C2,10,0.0,0.0

@@ -1,0 +1,7 @@
+escenario,regla,secuencia,tardanza,makespan,preparacion
+base,SPT,B-E-D-A-F-C,43.0,30.0,10.0
+base,EDD,B-A-D-C-E-F,38.0,28.0,8.0
+base,Optimo,B-D-A-E-C-F,22.0,24.0,4.0
+sin_preparacion,SPT,B-E-D-A-F-C,16.0,20.0,0.0
+sin_preparacion,EDD,B-A-D-C-E-F,12.0,20.0,0.0
+sin_preparacion,Optimo,B-A-D-C-E-F,12.0,20.0,0.0

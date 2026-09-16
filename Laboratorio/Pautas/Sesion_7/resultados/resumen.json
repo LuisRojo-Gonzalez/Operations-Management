@@ -1,0 +1,78 @@
+{
+  "optimos": {
+    "base": {
+      "secuencia": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C",
+        "F"
+      ],
+      "tardanza": 22.0,
+      "makespan": 24.0
+    },
+    "sin_preparacion": {
+      "secuencia": [
+        "B",
+        "A",
+        "D",
+        "C",
+        "E",
+        "F"
+      ],
+      "tardanza": 12.0,
+      "makespan": 20.0
+    }
+  },
+  "comparacion": [
+    {
+      "escenario": "base",
+      "regla": "SPT",
+      "secuencia": "B-E-D-A-F-C",
+      "tardanza": 43.0,
+      "makespan": 30.0,
+      "preparacion": 10.0
+    },
+    {
+      "escenario": "base",
+      "regla": "EDD",
+      "secuencia": "B-A-D-C-E-F",
+      "tardanza": 38.0,
+      "makespan": 28.0,
+      "preparacion": 8.0
+    },
+    {
+      "escenario": "base",
+      "regla": "Optimo",
+      "secuencia": "B-D-A-E-C-F",
+      "tardanza": 22.0,
+      "makespan": 24.0,
+      "preparacion": 4.0
+    },
+    {
+      "escenario": "sin_preparacion",
+      "regla": "SPT",
+      "secuencia": "B-E-D-A-F-C",
+      "tardanza": 16.0,
+      "makespan": 20.0,
+      "preparacion": 0.0
+    },
+    {
+      "escenario": "sin_preparacion",
+      "regla": "EDD",
+      "secuencia": "B-A-D-C-E-F",
+      "tardanza": 12.0,
+      "makespan": 20.0,
+      "preparacion": 0.0
+    },
+    {
+      "escenario": "sin_preparacion",
+      "regla": "Optimo",
+      "secuencia": "B-A-D-C-E-F",
+      "tardanza": 12.0,
+      "makespan": 20.0,
+      "preparacion": 0.0
+    }
+  ]
+}

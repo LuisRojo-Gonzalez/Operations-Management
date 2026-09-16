@@ -1,0 +1,49 @@
+{
+  "alpha_ses": 0.2,
+  "metodo": "ingenuo_estacional",
+  "ultimo_periodo_seleccion": 24,
+  "metricas": [
+    {
+      "metodo": "ingenuo",
+      "MAE_validacion": 19.0,
+      "sesgo_validacion": 1.0,
+      "MAE_prueba": 19.0,
+      "sesgo_prueba": 1.0
+    },
+    {
+      "metodo": "media_movil",
+      "MAE_validacion": 13.333333333333336,
+      "sesgo_validacion": 2.0,
+      "MAE_prueba": 13.333333333333336,
+      "sesgo_prueba": 2.0
+    },
+    {
+      "metodo": "ingenuo_estacional",
+      "MAE_validacion": 4.0,
+      "sesgo_validacion": 4.0,
+      "MAE_prueba": 4.0,
+      "sesgo_prueba": 4.0
+    },
+    {
+      "metodo": "ses_0.2",
+      "MAE_validacion": 12.629718530659606,
+      "sesgo_validacion": 5.1291272085159285,
+      "MAE_prueba": 12.605132710158166,
+      "sesgo_prueba": 5.052890504608108
+    },
+    {
+      "metodo": "ses_0.5",
+      "MAE_validacion": 15.599998235702515,
+      "sesgo_validacion": 2.0000088214874268,
+      "MAE_prueba": 15.599999889731407,
+      "sesgo_prueba": 2.000000551342964
+    },
+    {
+      "metodo": "ses_0.8",
+      "MAE_validacion": 18.461538461538424,
+      "sesgo_validacion": 1.250000000000064,
+      "MAE_prueba": 18.461538461538456,
+      "sesgo_prueba": 1.2500000000000036
+    }
+  ]
+}

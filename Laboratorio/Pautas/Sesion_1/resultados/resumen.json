@@ -1,0 +1,15 @@
+{
+  "p_ref": 0.04,
+  "p_total": 0.06,
+  "ucl_ref": 0.1231384387633061,
+  "ucl_total": 0.16075713374248,
+  "senales_fijas": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "senales_reestimadas": [
+    23
+  ]
+}

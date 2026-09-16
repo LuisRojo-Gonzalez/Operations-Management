@@ -1,0 +1,9 @@
+cartera,costo,beneficio,factible
+Ninguno,0.0,0.0,True
+C,7.0,10.0,True
+B,5.0,8.0,True
+B+C,12.0,18.0,False
+A,4.0,6.0,True
+A+C,11.0,16.0,False
+A+B,9.0,14.0,True
+A+B+C,16.0,24.0,False

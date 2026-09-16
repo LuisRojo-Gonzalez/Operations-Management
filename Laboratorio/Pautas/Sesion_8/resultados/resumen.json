@@ -1,0 +1,67 @@
+{
+  "politicas": [
+    {
+      "secuencia": [
+        1,
+        4,
+        2,
+        3
+      ],
+      "tiempo": 28,
+      "tardanza": 6.0,
+      "cumplimiento": 0.75,
+      "politica": "Vecino"
+    },
+    {
+      "secuencia": [
+        1,
+        3,
+        2,
+        4
+      ],
+      "tiempo": 26,
+      "tardanza": 3.0,
+      "cumplimiento": 0.75,
+      "politica": "Min_tiempo"
+    },
+    {
+      "secuencia": [
+        1,
+        3,
+        4,
+        2
+      ],
+      "tiempo": 26,
+      "tardanza": 0.0,
+      "cumplimiento": 1.0,
+      "politica": "Con_plazos"
+    }
+  ],
+  "numero_factibles": 2,
+  "minimos_sin_plazos": [
+    [
+      1,
+      3,
+      2,
+      4
+    ],
+    [
+      1,
+      3,
+      4,
+      2
+    ],
+    [
+      2,
+      4,
+      3,
+      1
+    ],
+    [
+      4,
+      2,
+      3,
+      1
+    ]
+  ]
+}

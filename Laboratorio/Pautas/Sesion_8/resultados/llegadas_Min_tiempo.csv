@@ -1,0 +1,5 @@
+cliente,llegada,limite,tardanza,a_tiempo
+1,2,6.0,0.0,True
+3,6,12.0,0.0,True
+2,14,20.0,0.0,True
+4,19,16.0,3.0,False

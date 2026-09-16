@@ -1,0 +1,30 @@
+{
+  "base": {
+    "status": 0,
+    "costo": 220.0,
+    "flujos": [
+      60.0,
+      10.0,
+      0.0,
+      50.0,
+      0.0,
+      0.0
+    ]
+  },
+  "cierre": {
+    "status": 2,
+    "costo": null
+  },
+  "cierre_con_emergencia": {
+    "status": 0,
+    "costo": 600.0,
+    "flujos": [
+      0.0,
+      60.0,
+      50.0,
+      0.0,
+      10.0,
+      0.0
+    ]
+  }
+}
