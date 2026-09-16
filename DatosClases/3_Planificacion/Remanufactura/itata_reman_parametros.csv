@@ -1,0 +1,2 @@
+costo_aceptar,costo_desensamble,costo_recuperacion,costo_reensamble,costo_nuevo,costo_disposicion,penal_venta_perdida,setup_desensamble,setup_recuperacion,setup_reensamble,almacen_core,almacen_parte,almacen_producto,lead_desensamble,inv_inicial_core,inv_inicial_parte,inv_inicial_producto,emision_hora_extra,holgura_carbono
+320,640,890,1400,3850,210,6200,480000,610000,720000,38,51,96,1,900,350,620,88.0,0.8

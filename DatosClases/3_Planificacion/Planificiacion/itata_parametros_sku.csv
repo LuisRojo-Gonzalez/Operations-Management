@@ -1,0 +1,7 @@
+sku,familia,formato_g,unidades_por_caja,kg_por_caja,linea,tasa_linea_cajas_h,costo_unitario_clp_caja,costo_almacen_clp_caja_sem,costo_backlog_clp_caja_sem,costo_setup_clp,tiempo_setup_h,lead_time_sem,stock_seguridad_cajas,emision_kgco2_caja
+DUR-480,DUR,480,24,11.52,L1,155.0,13400,67.0,737.0,385000,0.9,0,269.0,4.1
+DUR-820,DUR,820,12,9.84,L2,86.0,19900,99.5,1094.5,442000,1.1,0,58.0,6.05
+TOM-480,TOM,480,24,11.52,L1,155.0,8700,43.5,478.5,298000,0.7,0,792.0,3.55
+TOM-3000,TOM,3000,6,18.0,L2,44.0,31500,157.5,1732.5,516000,1.4,1,128.0,12.8
+POR-480,POR,480,24,11.52,L1,155.0,12100,60.5,665.5,361000,0.9,0,266.0,4.6
+POR-3000,POR,3000,6,18.0,L2,44.0,38200,191.0,2101.0,548000,1.5,1,40.0,14.9

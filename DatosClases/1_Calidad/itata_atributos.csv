@@ -1,0 +1,25 @@
+lote,n_inspeccionadas,n_defectuosas,causa_principal
+1,260,13,Peso fuera de rango
+2,296,18,Peso fuera de rango
+3,319,12,Peso fuera de rango
+4,318,14,Rotulado
+5,254,12,Peso fuera de rango
+6,351,12,Sello defectuoso
+7,367,10,Sello defectuoso
+8,278,5,Peso fuera de rango
+9,346,14,Sello defectuoso
+10,280,12,Peso fuera de rango
+11,347,11,Sello defectuoso
+12,373,23,Sello defectuoso
+13,307,12,Rotulado
+14,264,10,Rotulado
+15,359,31,Sello defectuoso
+16,397,15,Sello defectuoso
+17,346,4,Abolladura
+18,384,21,Sello defectuoso
+19,252,8,Sello defectuoso
+20,316,11,Peso fuera de rango
+21,288,8,Rotulado
+22,347,13,Peso fuera de rango
+23,325,12,Sello defectuoso
+24,345,12,Rotulado

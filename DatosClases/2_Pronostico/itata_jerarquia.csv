@@ -1,0 +1,11 @@
+serie,nivel,padre,tipo
+TOTAL,0,,agregado
+DUR,1,TOTAL,agregado
+TOM,1,TOTAL,agregado
+POR,1,TOTAL,agregado
+DUR-480,2,DUR,base
+DUR-820,2,DUR,base
+TOM-480,2,TOM,base
+TOM-3000,2,TOM,base
+POR-480,2,POR,base
+POR-3000,2,POR,base

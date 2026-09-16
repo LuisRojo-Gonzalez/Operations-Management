@@ -1,0 +1,10 @@
+item,tipo,unidad,inventario_inicial
+DUR-480,producto_terminado,caja,260.0
+DUR-820,producto_terminado,caja,38.0
+TOM-480,producto_terminado,caja,860.0
+TOM-3000,producto_terminado,caja,131.0
+POR-480,producto_terminado,caja,346.0
+POR-3000,producto_terminado,caja,41.0
+PREP-DUR,preparado_granel,kg,3799.0
+PREP-TOM,preparado_granel,kg,2630.0
+PREP-POR,preparado_granel,kg,3834.0

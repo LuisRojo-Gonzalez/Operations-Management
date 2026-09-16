@@ -1,0 +1,5 @@
+antecesora,sucesora,tipo,desfase_h,motivo
+A11,A13,FS,-3,las ultimas 3 h de la caldera son aislacion y papeleo: las pruebas hidraulicas ya pueden partir
+A15,A16,SS,2,la cuadrilla no puede arrancar las dos lineas a la vez; L2 parte 2 h despues que L1
+A16,A15,FF,-4,ambas deben quedar listas para la misma validacion: L1 no puede terminar mas de 4 h antes que L2
+A15,A12,SF,0,la sanitizacion no se cierra hasta que arranca la marcha blanca: la superficie sanitizada se recontamina si queda tiempo muerto

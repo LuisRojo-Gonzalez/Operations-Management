@@ -1,0 +1,5 @@
+recurso,descripcion,horas_regulares_sem,horas_extra_max_sem,costo_hora_extra_clp
+PREP,Marmitas de preparado a granel,46.0,8.0,138000
+L1,Linea de envasado 480 g,45.0,10.0,121000
+L2,Linea de envasado 820 g y 3000 g,26.0,8.0,116000
+AUT,Autoclave de esterilizacion (compartido),48.0,6.0,204000

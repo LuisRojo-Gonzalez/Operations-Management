@@ -1,0 +1,19 @@
+actividad,nombre,duracion_h,uso_mecanicos,uso_grua,predecesores
+A01,Bloqueo y descarga de lineas,4,3,0,
+A02,Vaciado y lavado de marmitas,8,4,0,A01
+A03,Desmontaje de valvulas del autoclave,6,2,1,A01
+A04,Inspeccion de recipiente a presion,10,2,0,A03
+A05,Cambio de empaquetaduras,5,2,0,A03
+A06,Reparacion de camisa de vapor,12,3,1,A02
+A07,Calibracion de instrumentos,6,1,0,A04 A05
+A08,Cambio de cabezal llenadora L1,9,3,1,A01
+A09,Ajuste de capsuladora L2,7,2,0,A01
+A10,Cambio de cinta transportadora,8,2,1,A08 A09
+A11,Mantencion de caldera,14,4,0,A06
+A12,Sanitizacion general,6,5,0,A02 A10
+A13,Pruebas hidraulicas,5,2,1,A07
+A14,Montaje de valvulas,4,2,1,A13
+A15,Marcha blanca de linea 1,6,3,0,A12 A14
+A16,Marcha blanca de linea 2,6,3,0,A12 A14
+A17,Validacion sanitaria,8,2,0,A15 A16
+A18,Entrega a operaciones,2,2,0,A17

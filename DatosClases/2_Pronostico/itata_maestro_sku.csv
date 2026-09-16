@@ -1,0 +1,7 @@
+sku,familia,formato_g,canal,unidades_por_caja,nivel_base_cajas,familia_nombre,precio_lista_clp_caja
+DUR-480,DUR,480,Retail,24,1400,Duraznos en conserva,21500
+DUR-820,DUR,820,Retail,12,620,Duraznos en conserva,31800
+TOM-480,TOM,480,Retail,24,2100,Tomate triturado,14900
+TOM-3000,TOM,3000,FoodService,6,240,Tomate triturado,52400
+POR-480,POR,480,Retail,24,900,Porotos granados,19600
+POR-3000,POR,3000,FoodService,6,95,Porotos granados,61800
