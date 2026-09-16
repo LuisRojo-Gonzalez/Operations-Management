@@ -1,0 +1,10 @@
+familia_origen,familia_destino,horas_limpieza_cip,costo_cip_clp,requiere_cip
+CIT,CIT,0.0,0,0
+CIT,FUN,1.0,74000,1
+CIT,NEC,1.0,74000,1
+FUN,CIT,2.4,177600,1
+FUN,FUN,0.0,0,0
+FUN,NEC,1.4,103600,1
+NEC,CIT,2.8,207200,1
+NEC,FUN,2.8,207200,1
+NEC,NEC,0.0,0,0

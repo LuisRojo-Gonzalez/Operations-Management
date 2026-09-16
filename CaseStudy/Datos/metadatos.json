@@ -1,0 +1,15 @@
+{
+  "empresa": "Bebidas del Maipo S.A.",
+  "semilla": 20260923,
+  "n_semanas_historia": 156,
+  "fin_historia": "2026-09-21",
+  "horizonte_planificacion": 13,
+  "semana_focal_secuenciamiento": 12,
+  "fecha_semana_focal": "2026-12-14",
+  "n_sku": 9,
+  "familias": [
+    "CIT",
+    "FUN",
+    "NEC"
+  ]
+}
