@@ -1,0 +1,211 @@
+fecha,semana_registro,turno,linea,sku,n_inspeccionadas,n_defectuosas,causa_principal
+2026-07-20,1,A (06-14),L1,FUN-B05,238,1,Envase deformado
+2026-07-20,1,B (14-22),L1,CIT-L05,182,3,Etiqueta
+2026-07-21,1,A (06-14),L1,NEC-D05,190,4,Envase deformado
+2026-07-21,1,B (14-22),L1,CIT-L05,194,3,Nivel de llenado
+2026-07-22,1,A (06-14),L1,CIT-L05,190,8,Etiqueta
+2026-07-22,1,B (14-22),L1,NEC-D05,184,4,Nivel de llenado
+2026-07-20,1,A (06-14),L2,CIT-L30,260,11,Etiqueta
+2026-07-20,1,B (14-22),L2,CIT-L30,235,8,Cuerpo extranio
+2026-07-20,1,C (22-06),L2,NEC-D15,215,2,Sello/tapa
+2026-07-21,1,A (06-14),L2,FUN-B15,245,4,Sello/tapa
+2026-07-21,1,B (14-22),L2,CIT-L30,202,7,Envase deformado
+2026-07-21,1,C (22-06),L2,NEC-D15,242,6,Etiqueta
+2026-07-22,1,A (06-14),L2,FUN-B30,213,8,Nivel de llenado
+2026-07-22,1,B (14-22),L2,FUN-B30,249,13,Sello/tapa
+2026-07-22,1,C (22-06),L2,FUN-B30,212,6,Sello/tapa
+2026-07-23,1,A (06-14),L2,CIT-L15,221,4,Envase deformado
+2026-07-23,1,B (14-22),L2,NEC-D30,216,6,Nivel de llenado
+2026-07-23,1,C (22-06),L2,NEC-D30,191,4,Envase deformado
+2026-07-24,1,A (06-14),L2,CIT-L15,258,4,Nivel de llenado
+2026-07-24,1,B (14-22),L2,NEC-D30,226,5,Etiqueta
+2026-07-24,1,C (22-06),L2,NEC-D30,252,8,Sello/tapa
+2026-07-27,2,A (06-14),L1,NEC-D05,242,4,Nivel de llenado
+2026-07-27,2,B (14-22),L1,CIT-L05,223,6,Sello/tapa
+2026-07-28,2,A (06-14),L1,FUN-B05,191,3,Etiqueta
+2026-07-28,2,B (14-22),L1,FUN-B05,241,4,Nivel de llenado
+2026-07-29,2,A (06-14),L1,FUN-B05,186,7,Etiqueta
+2026-07-29,2,B (14-22),L1,CIT-L05,210,4,Nivel de llenado
+2026-07-27,2,A (06-14),L2,NEC-D15,238,7,Sello/tapa
+2026-07-27,2,B (14-22),L2,CIT-L30,260,7,Etiqueta
+2026-07-27,2,C (22-06),L2,CIT-L30,212,8,Etiqueta
+2026-07-28,2,A (06-14),L2,NEC-D15,245,5,Nivel de llenado
+2026-07-28,2,B (14-22),L2,CIT-L30,227,6,Sello/tapa
+2026-07-28,2,C (22-06),L2,NEC-D15,183,4,Sello/tapa
+2026-07-29,2,A (06-14),L2,CIT-L15,209,7,Etiqueta
+2026-07-29,2,B (14-22),L2,CIT-L15,181,3,Envase deformado
+2026-07-29,2,C (22-06),L2,FUN-B30,206,5,Nivel de llenado
+2026-07-30,2,A (06-14),L2,CIT-L30,221,5,Nivel de llenado
+2026-07-30,2,B (14-22),L2,FUN-B30,247,13,Nivel de llenado
+2026-07-30,2,C (22-06),L2,FUN-B15,183,4,Nivel de llenado
+2026-07-31,2,A (06-14),L2,FUN-B15,216,7,Envase deformado
+2026-07-31,2,B (14-22),L2,FUN-B30,215,6,Nivel de llenado
+2026-07-31,2,C (22-06),L2,FUN-B15,202,6,Nivel de llenado
+2026-08-03,3,A (06-14),L1,NEC-D05,254,6,Nivel de llenado
+2026-08-03,3,B (14-22),L1,CIT-L05,220,6,Etiqueta
+2026-08-04,3,A (06-14),L1,FUN-B05,197,4,Sello/tapa
+2026-08-04,3,B (14-22),L1,NEC-D05,184,1,Sello/tapa
+2026-08-05,3,A (06-14),L1,CIT-L05,219,3,Nivel de llenado
+2026-08-05,3,B (14-22),L1,CIT-L05,233,2,Nivel de llenado
+2026-08-03,3,A (06-14),L2,CIT-L15,224,12,Etiqueta
+2026-08-03,3,B (14-22),L2,CIT-L30,248,5,Cuerpo extranio
+2026-08-03,3,C (22-06),L2,FUN-B30,242,4,Cuerpo extranio
+2026-08-04,3,A (06-14),L2,CIT-L15,226,7,Sello/tapa
+2026-08-04,3,B (14-22),L2,FUN-B15,185,5,Etiqueta
+2026-08-04,3,C (22-06),L2,CIT-L30,190,3,Envase deformado
+2026-08-05,3,A (06-14),L2,FUN-B30,201,4,Etiqueta
+2026-08-05,3,B (14-22),L2,FUN-B30,183,3,Etiqueta
+2026-08-05,3,C (22-06),L2,CIT-L30,258,6,Nivel de llenado
+2026-08-06,3,A (06-14),L2,FUN-B15,195,3,Etiqueta
+2026-08-06,3,B (14-22),L2,FUN-B30,247,5,Envase deformado
+2026-08-06,3,C (22-06),L2,NEC-D15,246,4,Etiqueta
+2026-08-07,3,A (06-14),L2,NEC-D15,218,7,Sello/tapa
+2026-08-07,3,B (14-22),L2,CIT-L30,233,8,Etiqueta
+2026-08-07,3,C (22-06),L2,FUN-B15,227,12,Sello/tapa
+2026-08-10,4,A (06-14),L1,FUN-B05,260,6,Nivel de llenado
+2026-08-10,4,B (14-22),L1,NEC-D05,181,5,Etiqueta
+2026-08-11,4,A (06-14),L1,CIT-L05,226,3,Nivel de llenado
+2026-08-11,4,B (14-22),L1,CIT-L05,211,1,Nivel de llenado
+2026-08-12,4,A (06-14),L1,FUN-B05,200,3,Envase deformado
+2026-08-12,4,B (14-22),L1,NEC-D05,232,5,Sello/tapa
+2026-08-10,4,A (06-14),L2,CIT-L15,220,5,Nivel de llenado
+2026-08-10,4,B (14-22),L2,CIT-L15,235,7,Cuerpo extranio
+2026-08-10,4,C (22-06),L2,NEC-D15,245,6,Sello/tapa
+2026-08-11,4,A (06-14),L2,NEC-D15,191,1,Etiqueta
+2026-08-11,4,B (14-22),L2,CIT-L30,251,4,Sello/tapa
+2026-08-11,4,C (22-06),L2,FUN-B30,196,3,Nivel de llenado
+2026-08-12,4,A (06-14),L2,FUN-B30,183,3,Envase deformado
+2026-08-12,4,B (14-22),L2,NEC-D30,220,4,Sello/tapa
+2026-08-12,4,C (22-06),L2,FUN-B15,195,3,Sello/tapa
+2026-08-13,4,A (06-14),L2,FUN-B15,202,3,Envase deformado
+2026-08-13,4,B (14-22),L2,NEC-D15,207,5,Sello/tapa
+2026-08-13,4,C (22-06),L2,FUN-B15,209,4,Etiqueta
+2026-08-14,4,A (06-14),L2,NEC-D15,216,7,Sello/tapa
+2026-08-14,4,B (14-22),L2,CIT-L15,251,7,Sello/tapa
+2026-08-14,4,C (22-06),L2,FUN-B30,241,4,Etiqueta
+2026-08-17,5,A (06-14),L1,CIT-L05,228,8,Nivel de llenado
+2026-08-17,5,B (14-22),L1,NEC-D05,217,7,Envase deformado
+2026-08-18,5,A (06-14),L1,FUN-B05,232,3,Envase deformado
+2026-08-18,5,B (14-22),L1,CIT-L05,258,1,Nivel de llenado
+2026-08-19,5,A (06-14),L1,CIT-L05,197,1,Envase deformado
+2026-08-19,5,B (14-22),L1,CIT-L05,184,3,Sello/tapa
+2026-08-17,5,A (06-14),L2,CIT-L30,210,3,Sello/tapa
+2026-08-17,5,B (14-22),L2,FUN-B30,216,5,Cuerpo extranio
+2026-08-17,5,C (22-06),L2,FUN-B30,183,3,Nivel de llenado
+2026-08-18,5,A (06-14),L2,CIT-L30,195,6,Sello/tapa
+2026-08-18,5,B (14-22),L2,CIT-L30,201,10,Nivel de llenado
+2026-08-18,5,C (22-06),L2,FUN-B15,220,5,Etiqueta
+2026-08-19,5,A (06-14),L2,NEC-D30,257,8,Nivel de llenado
+2026-08-19,5,B (14-22),L2,CIT-L30,222,6,Etiqueta
+2026-08-19,5,C (22-06),L2,NEC-D30,196,11,Sello/tapa
+2026-08-20,5,A (06-14),L2,NEC-D30,228,7,Nivel de llenado
+2026-08-20,5,B (14-22),L2,FUN-B15,248,6,Sello/tapa
+2026-08-20,5,C (22-06),L2,CIT-L30,231,2,Etiqueta
+2026-08-21,5,A (06-14),L2,NEC-D15,214,7,Sello/tapa
+2026-08-21,5,B (14-22),L2,FUN-B30,200,6,Sello/tapa
+2026-08-21,5,C (22-06),L2,FUN-B15,234,3,Sello/tapa
+2026-08-24,6,A (06-14),L1,CIT-L05,188,6,Nivel de llenado
+2026-08-24,6,B (14-22),L1,NEC-D05,248,2,Sello/tapa
+2026-08-25,6,A (06-14),L1,CIT-L05,202,2,Nivel de llenado
+2026-08-25,6,B (14-22),L1,FUN-B05,249,7,Nivel de llenado
+2026-08-26,6,A (06-14),L1,NEC-D05,192,9,Sello/tapa
+2026-08-26,6,B (14-22),L1,FUN-B05,198,8,Sello/tapa
+2026-08-24,6,A (06-14),L2,NEC-D30,224,10,Sello/tapa
+2026-08-24,6,B (14-22),L2,FUN-B30,212,4,Nivel de llenado
+2026-08-24,6,C (22-06),L2,FUN-B15,209,3,Envase deformado
+2026-08-25,6,A (06-14),L2,CIT-L30,191,3,Nivel de llenado
+2026-08-25,6,B (14-22),L2,NEC-D30,242,7,Cuerpo extranio
+2026-08-25,6,C (22-06),L2,CIT-L15,204,9,Nivel de llenado
+2026-08-26,6,A (06-14),L2,FUN-B15,224,4,Nivel de llenado
+2026-08-26,6,B (14-22),L2,NEC-D30,241,11,Cuerpo extranio
+2026-08-26,6,C (22-06),L2,NEC-D30,217,0,Sin defectos
+2026-08-27,6,A (06-14),L2,FUN-B30,198,18,Nivel de llenado
+2026-08-27,6,B (14-22),L2,NEC-D15,250,3,Envase deformado
+2026-08-27,6,C (22-06),L2,FUN-B15,231,6,Etiqueta
+2026-08-28,6,A (06-14),L2,NEC-D30,241,7,Etiqueta
+2026-08-28,6,B (14-22),L2,FUN-B15,193,3,Etiqueta
+2026-08-28,6,C (22-06),L2,CIT-L30,197,7,Etiqueta
+2026-08-31,7,A (06-14),L1,FUN-B05,189,2,Etiqueta
+2026-08-31,7,B (14-22),L1,CIT-L05,240,4,Nivel de llenado
+2026-09-01,7,A (06-14),L1,FUN-B05,217,4,Nivel de llenado
+2026-09-01,7,B (14-22),L1,NEC-D05,194,5,Etiqueta
+2026-09-02,7,A (06-14),L1,NEC-D05,205,3,Etiqueta
+2026-09-02,7,B (14-22),L1,FUN-B05,198,3,Cuerpo extranio
+2026-08-31,7,A (06-14),L2,CIT-L30,202,0,Sin defectos
+2026-08-31,7,B (14-22),L2,CIT-L15,201,3,Cuerpo extranio
+2026-08-31,7,C (22-06),L2,NEC-D30,245,7,Sello/tapa
+2026-09-01,7,A (06-14),L2,NEC-D30,260,2,Sello/tapa
+2026-09-01,7,B (14-22),L2,FUN-B15,221,6,Etiqueta
+2026-09-01,7,C (22-06),L2,CIT-L30,222,5,Cuerpo extranio
+2026-09-02,7,A (06-14),L2,CIT-L15,230,7,Nivel de llenado
+2026-09-02,7,B (14-22),L2,NEC-D30,203,1,Nivel de llenado
+2026-09-02,7,C (22-06),L2,NEC-D15,194,7,Nivel de llenado
+2026-09-03,7,A (06-14),L2,NEC-D15,237,6,Nivel de llenado
+2026-09-03,7,B (14-22),L2,NEC-D30,216,5,Sello/tapa
+2026-09-03,7,C (22-06),L2,NEC-D15,183,5,Nivel de llenado
+2026-09-04,7,A (06-14),L2,CIT-L30,233,4,Etiqueta
+2026-09-04,7,B (14-22),L2,NEC-D15,199,6,Etiqueta
+2026-09-04,7,C (22-06),L2,NEC-D15,250,9,Nivel de llenado
+2026-09-07,8,A (06-14),L1,FUN-B05,200,7,Sello/tapa
+2026-09-07,8,B (14-22),L1,NEC-D05,227,3,Etiqueta
+2026-09-08,8,A (06-14),L1,NEC-D05,224,3,Sello/tapa
+2026-09-08,8,B (14-22),L1,NEC-D05,221,3,Etiqueta
+2026-09-09,8,A (06-14),L1,CIT-L05,247,6,Nivel de llenado
+2026-09-09,8,B (14-22),L1,CIT-L05,186,2,Etiqueta
+2026-09-07,8,A (06-14),L2,CIT-L30,198,15,Etiqueta
+2026-09-07,8,B (14-22),L2,CIT-L15,247,10,Sello/tapa
+2026-09-07,8,C (22-06),L2,NEC-D30,234,18,Etiqueta
+2026-09-08,8,A (06-14),L2,CIT-L15,212,11,Sello/tapa
+2026-09-08,8,B (14-22),L2,FUN-B15,246,20,Etiqueta
+2026-09-08,8,C (22-06),L2,FUN-B15,237,21,Etiqueta
+2026-09-09,8,A (06-14),L2,CIT-L30,236,20,Sello/tapa
+2026-09-09,8,B (14-22),L2,CIT-L30,208,12,Etiqueta
+2026-09-09,8,C (22-06),L2,CIT-L30,231,21,Etiqueta
+2026-09-10,8,A (06-14),L2,NEC-D30,225,23,Nivel de llenado
+2026-09-10,8,B (14-22),L2,CIT-L30,258,17,Etiqueta
+2026-09-10,8,C (22-06),L2,NEC-D30,241,26,Sello/tapa
+2026-09-11,8,A (06-14),L2,NEC-D15,185,10,Etiqueta
+2026-09-11,8,B (14-22),L2,NEC-D30,203,19,Etiqueta
+2026-09-11,8,C (22-06),L2,CIT-L15,204,15,Etiqueta
+2026-09-14,9,A (06-14),L1,NEC-D05,219,8,Cuerpo extranio
+2026-09-14,9,B (14-22),L1,NEC-D05,227,3,Sello/tapa
+2026-09-15,9,A (06-14),L1,CIT-L05,217,4,Nivel de llenado
+2026-09-15,9,B (14-22),L1,FUN-B05,237,4,Etiqueta
+2026-09-16,9,A (06-14),L1,FUN-B05,228,4,Nivel de llenado
+2026-09-16,9,B (14-22),L1,CIT-L05,255,6,Envase deformado
+2026-09-14,9,A (06-14),L2,NEC-D30,260,7,Sello/tapa
+2026-09-14,9,B (14-22),L2,FUN-B15,191,5,Cuerpo extranio
+2026-09-14,9,C (22-06),L2,CIT-L15,212,4,Etiqueta
+2026-09-15,9,A (06-14),L2,CIT-L30,199,5,Etiqueta
+2026-09-15,9,B (14-22),L2,NEC-D15,244,6,Etiqueta
+2026-09-15,9,C (22-06),L2,NEC-D30,223,4,Etiqueta
+2026-09-16,9,A (06-14),L2,FUN-B15,220,6,Etiqueta
+2026-09-16,9,B (14-22),L2,NEC-D15,193,3,Etiqueta
+2026-09-16,9,C (22-06),L2,CIT-L15,228,7,Etiqueta
+2026-09-17,9,A (06-14),L2,NEC-D15,191,5,Envase deformado
+2026-09-17,9,B (14-22),L2,NEC-D30,259,12,Sello/tapa
+2026-09-17,9,C (22-06),L2,CIT-L30,207,6,Nivel de llenado
+2026-09-18,9,A (06-14),L2,CIT-L15,198,6,Nivel de llenado
+2026-09-18,9,B (14-22),L2,CIT-L15,217,10,Envase deformado
+2026-09-18,9,C (22-06),L2,FUN-B30,215,10,Nivel de llenado
+2026-09-21,10,A (06-14),L1,NEC-D05,194,4,Sello/tapa
+2026-09-21,10,B (14-22),L1,NEC-D05,229,4,Sello/tapa
+2026-09-22,10,A (06-14),L1,CIT-L05,200,6,Etiqueta
+2026-09-22,10,B (14-22),L1,NEC-D05,224,1,Envase deformado
+2026-09-23,10,A (06-14),L1,CIT-L05,255,2,Nivel de llenado
+2026-09-23,10,B (14-22),L1,CIT-L05,191,4,Nivel de llenado
+2026-09-21,10,A (06-14),L2,CIT-L15,190,3,Sello/tapa
+2026-09-21,10,B (14-22),L2,CIT-L15,194,4,Cuerpo extranio
+2026-09-21,10,C (22-06),L2,NEC-D15,249,6,Envase deformado
+2026-09-22,10,A (06-14),L2,CIT-L15,207,7,Etiqueta
+2026-09-22,10,B (14-22),L2,FUN-B30,246,2,Sello/tapa
+2026-09-22,10,C (22-06),L2,FUN-B15,222,4,Etiqueta
+2026-09-23,10,A (06-14),L2,FUN-B15,213,5,Etiqueta
+2026-09-23,10,B (14-22),L2,FUN-B15,191,5,Sello/tapa
+2026-09-23,10,C (22-06),L2,CIT-L30,243,6,Nivel de llenado
+2026-09-24,10,A (06-14),L2,CIT-L30,181,4,Nivel de llenado
+2026-09-24,10,B (14-22),L2,CIT-L30,196,6,Etiqueta
+2026-09-24,10,C (22-06),L2,NEC-D15,213,6,Etiqueta
+2026-09-25,10,A (06-14),L2,CIT-L30,218,5,Sello/tapa
+2026-09-25,10,B (14-22),L2,CIT-L30,244,6,Sello/tapa
+2026-09-25,10,C (22-06),L2,FUN-B15,253,5,Etiqueta
