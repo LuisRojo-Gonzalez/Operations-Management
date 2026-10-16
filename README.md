@@ -222,6 +222,11 @@ Esta fórmula se aplica por separado a las notas del caso en cátedra y laborato
 
 Las ponderaciones anteriores corresponden al **caso integrador**. Consulte las indicaciones del equipo docente para la evaluación global del curso y el acceso al registro de calificaciones, que no forma parte de los archivos de este repositorio.
 
+El registro de calificaciones **no se publica en este repositorio**. Los estudiantes del curso pueden consultarlo en una planilla de Google Drive con acceso restringido:
+
+🔗 **[Registro de notas (solo alumnos del curso)](https://docs.google.com/spreadsheets/d/1O46mzLg7hPnac1hIDe4pcAYJyTLYKoxmLVJTfVcWzlA/edit?usp=sharing)**
+
+---
 ---
 
 ## 📝 Licencia
