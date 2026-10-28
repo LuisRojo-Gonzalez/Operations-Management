@@ -8,4 +8,4 @@ En esta sección se encuentra disponible el material utilizado durante la clase 
 
 ### 🎥 Grabación de la clase online
 
-[Ver grabación de la clase en Google Drive](https://drive.google.com/file/d/1ZdcD4DcDR-QvTNn4-KJvXAOTztCyubD_/view?usp=share_link)
+[Ver grabación de la clase en Google Drive](https://drive.google.com/file/d/1ZdcD4DcDR-QvTNn4-KJvXAoTztCyubD_/view)
